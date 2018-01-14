@@ -1,0 +1,10 @@
+G:\Projects\IdentityServerSample\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+G:\Projects\IdentityServerSample\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+G:\Projects\IdentityServerSample\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+G:\Projects\IdentityServerSample\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+G:\Projects\IdentityServerSample\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+G:\Projects\IdentityServerSample\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+G:\Projects\IdentityServerSample\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+G:\Projects\IdentityServerSample\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+G:\Projects\IdentityServerSample\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+G:\Projects\IdentityServerSample\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb

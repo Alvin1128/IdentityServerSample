@@ -1,0 +1,10 @@
+G:\Projects\IdentityServerSample\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.deps.json
+G:\Projects\IdentityServerSample\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.runtimeconfig.json
+G:\Projects\IdentityServerSample\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.runtimeconfig.dev.json
+G:\Projects\IdentityServerSample\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.dll
+G:\Projects\IdentityServerSample\AuthorizationServer\bin\Debug\netcoreapp2.0\AuthorizationServer.pdb
+G:\Projects\IdentityServerSample\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.csproj.CoreCompileInputs.cache
+G:\Projects\IdentityServerSample\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.AssemblyInfoInputs.cache
+G:\Projects\IdentityServerSample\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.AssemblyInfo.cs
+G:\Projects\IdentityServerSample\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.dll
+G:\Projects\IdentityServerSample\AuthorizationServer\obj\Debug\netcoreapp2.0\AuthorizationServer.pdb
